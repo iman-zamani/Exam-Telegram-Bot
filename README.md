@@ -23,7 +23,7 @@ This Python-based Telegram bot facilitates conducting timed exams by sending que
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/imzzzzzz/Exam-Telegram-Bot.git
+   git clone https://github.com/iman-zamani/Exam-Telegram-Bot.git
    cd Exam-Telegram-Bot
    ```
 
